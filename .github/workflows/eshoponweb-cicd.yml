@@ -9,7 +9,7 @@ env:
   LOCATION: EastUS
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 166d65e2-ff44-4bcf-8b53-2b7626b66cf0
-  WEBAPP-NAME: az400-webapp-NQQHNEW
+  WEBAPP-NAME: az400-webapp-NQQHNEW0814
 
 
 jobs:
